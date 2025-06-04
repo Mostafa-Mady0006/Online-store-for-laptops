@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Laptop",
+    "price": 15000,
+    "category": "Electronics",
+    "stock": 15,
+    "image": "laptop.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Phone",
+    "price": 8000,
+    "category": "Electronics",
+    "stock": 30,
+    "image": "phone.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Laptop",
+    "price": 15000,
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "title": "Phone",
+    "price": 8000,
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "title": "Backpack",
+    "price": 400,
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "title": "Smart Watch",
+    "price": 2500,
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "title": "Desk Lamp",
+    "price": 350,
+    "category": "Home"
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "price": 1200,
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "title": "Notebook",
+    "price": 50,
+    "category": "Stationery"
+  },
+  {
+    "id": 8,
+    "title": "Office Chair",
+    "price": 2300,
+    "category": "Furniture"
+  },
+  {
+    "id": 9,
+    "title": "Running Shoes",
+    "price": 700,
+    "category": "Clothing"
+  },
+  {
+    "id": 10,
+    "title": "Gaming Mouse",
+    "price": 600,
+    "category": "Electronics"
+  }
+]
